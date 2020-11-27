@@ -4,7 +4,7 @@ Downloads Folder is always a mess in this day and age of internet where people d
 
 This is a chrome extension which can be installed locally.
 # Installation Procedure 
-Firstly Download the Repo.
+Firstly Download the Repo and unzip it. Then,
 
 1. Click the three dots in the top-right corner of the brower toolbar.
 2. Click on settings.
